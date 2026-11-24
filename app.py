@@ -1,3 +1,4 @@
+#---------------------This is a simple chatbot using OpenAI API---------------------#
 from openai import OpenAI
 client = OpenAI()
 conversation_history = []
